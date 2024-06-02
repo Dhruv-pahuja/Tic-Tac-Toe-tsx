@@ -12,16 +12,17 @@ Thank you for considering contributing to Tic-Tac-Toe ! Here are the steps to he
     git clone https://github.com/Dhruv-pahuja/Tic-Tac-Toe-tsx.git
     cd repository-name
     ```
-# Create a new branch for your changes
+### Create a new branch for your changes
 git checkout -b feature-or-bug-branch
 
-# Make your changes, then stage and commit them
+### Make your changes, then stage and commit them
 git add .
 git commit -m "Brief description of your changes"
 
-# Push your changes to your forked repository
+### Push your changes to your forked repository
 git push origin feature-or-bug-branch
 
-# Create a pull request on GitHub from your branch to the original repository's main branch
+### Create a pull request on GitHub from your branch to the original repository's main branch
 
+After this, we will review your changes and merge them if they solve issue or add meaningfull feature with any other conflicts
 
