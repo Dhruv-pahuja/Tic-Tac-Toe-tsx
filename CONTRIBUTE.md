@@ -29,5 +29,5 @@ git push origin feature-or-bug-branch
 
 ### Create a pull request on GitHub from your branch to the original repository's main branch
 
-After this, we will review your changes and merge them if they solve issue or add meaningfull feature with any other conflicts
+After this, we will review your changes and merge them if they solve issue or add meaningfull feature without any other conflicts
 
