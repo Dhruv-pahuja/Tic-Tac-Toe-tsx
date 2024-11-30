@@ -9,7 +9,7 @@ Thank you for considering contributing to Tic-Tac-Toe ! Here are the steps to he
 ## Step 2: Clone the Forked Repository
 1. **Clone**: Open your terminal and clone the forked repository to your local machine using the following command:
    ```bash
-    git clone https://github.com/Dhruv-pahuja/Tic-Tac-Toe-tsx.git
+    git clone https://github.com/<your-userName>/Tic-Tac-Toe-tsx.git
     cd Tic-Tac-Toe-tsx
     ```
 ### Create a new branch for your changes
@@ -30,4 +30,6 @@ git push origin feature-or-bug-branch
 ### Create a pull request on GitHub from your branch to the original repository's main branch
 
 After this, we will review your changes and merge them if they solve issue or add meaningfull feature without any other conflicts
+
+
 
