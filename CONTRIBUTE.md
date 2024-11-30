@@ -31,3 +31,6 @@ git push origin feature-or-bug-branch
 
 After this, we will review your changes and merge them if they solve issue or add meaningfull feature without any other conflicts
 
+
+test commit
+
